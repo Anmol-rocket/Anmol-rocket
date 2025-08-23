@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Anmol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anmol-rocket&show_icons=true&theme=tokyonight)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&width=435&lines=Hi+👋,+I'm+Anmol+Upadhyay;Data+Analyst;Fullstack+Developer;DSA+Enthusiast;Always+Learning+New+Tech)](https://git.io/typing-svg)
