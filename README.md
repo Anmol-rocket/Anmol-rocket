@@ -35,11 +35,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol-rocket&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Anmol-rocket">
-    <img src="https://streak-stats.demolab.com?user=Anmol-rocket&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
+
 
 
 
