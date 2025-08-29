@@ -36,8 +36,11 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Anmol-rocket&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/Anmol-rocket">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anmol-rocket&theme=tokyonight&hide_border=true" alt="GitHub Streak (fallback)" />
+  </a>
 </p>
+
 
 ---
 
